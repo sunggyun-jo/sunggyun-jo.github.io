@@ -4,4 +4,19 @@
 ---
 
 $sidebar-sticky: false;
+
+p.project {
+  min-height: 120px;
+  border-radius: 5px;
+  padding: 10px;
+  a {
+      text-decoration: none;
+      color: black;
+  }
+}
+
+p.project:hover {
+  background-color: #d6f1ff;
+}
+
 @import "hydeout";
