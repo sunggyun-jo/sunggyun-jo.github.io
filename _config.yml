@@ -38,3 +38,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:path
+
+# Google Analytics
+google_analytics: "G-0KS20LWBZY"
