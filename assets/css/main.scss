@@ -15,8 +15,9 @@ p.project {
   }
 }
 
-p.project:hover {
+p.project:has(a):hover {
   background-color: #d6f1ff;
 }
+
 
 @import "hydeout";
