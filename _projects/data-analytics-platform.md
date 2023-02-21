@@ -2,7 +2,7 @@
 layout: project
 title: Data Analytics Platform for e-Commerce
 ---
-*Imweb Corp, 2022. 04. ~ 2022. 12.*
+*Imweb Corp, 2022. 04 ~ 2022. 12*
 
 ### Project Summary
 
@@ -30,7 +30,7 @@ Obviously, it was not enough to contain all components of data analytics platfor
 
 
 ### Results
-- Key Performance Indicator Visualization 
+- Subscription & Monthly Recurring Revenue Visualization 
 ![imweb-project-data-visualization]({{site.baseurl}}/images/projects/imweb-project-data-visualization-20230217.png)
 
 - Churn Rate Prediction
