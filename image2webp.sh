@@ -1,42 +1,5 @@
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/main/edu-yeongjin.jpg -o images/main/edu-yeongjin.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/main/edu-gt.png -o images/main/edu-gt.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/main/edu-yonsei.jpg -o images/main/edu-yonsei.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/main/work-spectra.png -o images/main/work-spectra.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/main/cert-aws-saa.png -o images/main/cert-aws-saa.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/main/project-spectra-gatling.jpg -o images/main/project-spectra-gatling.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/main/project-spectra-enomix.png -o images/main/project-spectra-enomix.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/main/project-data-platform.png -o images/main/project-data-platform.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/main/work-imweb.png -o images/main/work-imweb.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/main/project-soomgo.jpg -o images/main/project-soomgo.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/main/cert-cisco-ccna.png -o images/main/cert-cisco-ccna.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/main/work-hydis.png -o images/main/work-hydis.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/main/work-42dot.jpg -o images/main/work-42dot.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/main/project-42dot-sangam.png -o images/main/project-42dot-sangam.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/main/work-soomgo.jpg -o images/main/work-soomgo.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/projects/soomgo/project-soomgo-metric-overview.png -o images/projects/soomgo/project-soomgo-metric-overview.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/projects/soomgo/project-soomgo-metric-result.png -o images/projects/soomgo/project-soomgo-metric-result.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/projects/soomgo/project-soomgo-metric-design.png -o images/projects/soomgo/project-soomgo-metric-design.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/projects/soomgo/project-soomgo-performance-test.png -o images/projects/soomgo/project-soomgo-performance-test.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/projects/soomgo/project-soomgo-sns-auth.png -o images/projects/soomgo/project-soomgo-sns-auth.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/projects/soomgo/project-soomgo-sns-auth-result.png -o images/projects/soomgo/project-soomgo-sns-auth-result.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/projects/soomgo/project-soomgo-member-metric.png -o images/projects/soomgo/project-soomgo-member-metric.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/projects/imweb-dataplatform-20230217_v1.png -o images/projects/imweb-dataplatform-20230217_v1.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/projects/imweb-service-architecture-20230217_v1.png -o images/projects/imweb-service-architecture-20230217_v1.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/projects/mobility/project-mobility-tap.png -o images/projects/mobility/project-mobility-tap.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/projects/mobility/project-mobility-subscription-overview.png -o images/projects/mobility/project-mobility-subscription-overview.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/projects/mobility/project-mobility-kiaflex.png -o images/projects/mobility/project-mobility-kiaflex.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/projects/mobility/project-mobility-tap-component.png -o images/projects/mobility/project-mobility-tap-component.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/projects/spectra/project-spectra-ticket-result-microbot.png -o images/projects/spectra/project-spectra-ticket-result-microbot.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/projects/spectra/project-spectra-ticket-journey.png -o images/projects/spectra/project-spectra-ticket-journey.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/projects/spectra/project-spectra-ticket-solution.png -o images/projects/spectra/project-spectra-ticket-solution.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/projects/spectra/project-spectra-ticket-model-training.png -o images/projects/spectra/project-spectra-ticket-model-training.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/projects/spectra/project-spectra-ticket-visualization-2.png -o images/projects/spectra/project-spectra-ticket-visualization-2.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/projects/spectra/project-spectra-ticket-visualization-1.png -o images/projects/spectra/project-spectra-ticket-visualization-1.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/projects/spectra/project-spectra-ticket-dataset.png -o images/projects/spectra/project-spectra-ticket-dataset.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/projects/spectra/project-spectra-ticket-agent-visualization-1.png -o images/projects/spectra/project-spectra-ticket-agent-visualization-1.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/projects/spectra/project-spectra-ticket-agent-visualization-2.png -o images/projects/spectra/project-spectra-ticket-agent-visualization-2.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/projects/imweb-project-churn-rate-prediction-20230217.png -o images/projects/imweb-project-churn-rate-prediction-20230217.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/projects/imweb-project-data-visualization-20230217.png -o images/projects/imweb-project-data-visualization-20230217.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/cwebp images/projects/imweb-project-service-availability-20230217.png -o images/projects/imweb-project-service-availability-20230217.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/gif2webp images/projects/mobility/project-mobility-sample-vehicle-driving.gif -o images/projects/mobility/project-mobility-sample-vehicle-driving.webp
-/root/libwebp-1.3.0-linux-x86-64/bin/gif2webp images/projects/mobility/project-mobility-sample-geofencing.gif -o images/projects/mobility/project-mobility-sample-geofencing.webp
+WP_PATH=/root/libwebp-1.3.0-linux-x86-64/bin/
+
+## awk manual >> https://wikidocs.net/29643
+find images -type f -regex  '.*\(png\|jpg\|jpeg\)$' | awk -F '.' '{system("'$WP_PATH'cwebp " $0 " -o " $1".webp")}'
+find images -name *.gif | awk -F '.' '{system("'$WP_PATH'gif2webp " $0 " -o " $1".webp")}'
