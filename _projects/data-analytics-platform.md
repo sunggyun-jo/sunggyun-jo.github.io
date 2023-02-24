@@ -31,10 +31,10 @@ Obviously, it was not enough to contain all components of data analytics platfor
 
 ### Results
 - Subscription & Monthly Recurring Revenue Visualization 
-![imweb-project-data-visualization]({{site.baseurl}}/images/projects/imweb-project-data-visualization-20230217.png)
+![imweb-project-data-visualization]({{site.baseurl}}/images/projects/imweb-project-data-visualization-20230217.webp)
 
 - Churn Rate Prediction
-![imweb-project-churn-rate-prediction]({{site.baseurl}}/images/projects/imweb-project-churn-rate-prediction-20230217.png)
+![imweb-project-churn-rate-prediction]({{site.baseurl}}/images/projects/imweb-project-churn-rate-prediction-20230217.webp)
 
 - Service Availability & Latency Monitoring
-![imweb-project-service-availability]({{site.baseurl}}/images/projects/imweb-project-service-availability-20230217.png)
+![imweb-project-service-availability]({{site.baseurl}}/images/projects/imweb-project-service-availability-20230217.webp)
