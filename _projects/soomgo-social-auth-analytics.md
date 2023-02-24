@@ -9,11 +9,11 @@ title: Social Authentication & User Analytics
 
 #### SNS Authentication with OAuth2.0 
 A simple sign up/sign in with Kakao had been leading of increasing users in the startup. Soomgo was going to provide a simple sign up/sign in with Kakao at 2020. Apple had a policy that if an app provides other sns authentication, it must provide Apple Login too.    
-![soomgo-sns-auth]({{site.baseurl}}/images/projects/soomgo/project-soomgo-sns-auth.png)
+![soomgo-sns-auth]({{site.baseurl}}/images/projects/soomgo/project-soomgo-sns-auth.webp)
 
 #### User Activity Metric Service
 We encouraged all service providers to improve their profiles. If service providers had a complete profile, that was helpful to success to make more contracts. There were two metrics: a number of profile clicks, a number of sending estimates.
-![soomgo-metric]({{site.baseurl}}/images/projects/soomgo/project-soomgo-metric-overview.png)
+![soomgo-metric]({{site.baseurl}}/images/projects/soomgo/project-soomgo-metric-overview.webp)
 
 
 ### Role
@@ -30,8 +30,8 @@ We encouraged all service providers to improve their profiles. If service provid
 
 ### Results
 - A Simple sign up/sign in with SNS was increased as total numbers and rate
-![soomgo-sns-auth-result]({{site.baseurl}}/images/projects/soomgo/project-soomgo-sns-auth-result.png){: width="350" height="700"}
+![soomgo-sns-auth-result]({{site.baseurl}}/images/projects/soomgo/project-soomgo-sns-auth-result.webp){: width="350" height="700"}
 - Performance test with scale out
-![soomgo-performance-test]({{site.baseurl}}/images/projects/soomgo/project-soomgo-performance-test.png)
+![soomgo-performance-test]({{site.baseurl}}/images/projects/soomgo/project-soomgo-performance-test.webp)
 - User Activity Metric
-![soomgo-metric-design]({{site.baseurl}}/images/projects/soomgo/project-soomgo-metric-result.png)
+![soomgo-metric-design]({{site.baseurl}}/images/projects/soomgo/project-soomgo-metric-result.webp)

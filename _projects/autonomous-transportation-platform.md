@@ -27,7 +27,7 @@ We launched TAP service that was first autonomous vehicle transportation in Seou
 
 ### Results
 - Finding stations with geofencing (sample, not a product)
-![mobility-sample-geofencing]({{site.baseurl}}/images/projects/mobility/project-mobility-sample-geofencing.gif)
+![mobility-sample-geofencing]({{site.baseurl}}/images/projects/mobility/project-mobility-sample-geofencing.webp)
 
 - Vehicle driving monitoring (sample, not a product)
-![mobility-sample-geofencing]({{site.baseurl}}/images/projects/mobility/project-mobility-sample-vehicle-driving.gif)
+![mobility-sample-geofencing]({{site.baseurl}}/images/projects/mobility/project-mobility-sample-vehicle-driving.webp)
