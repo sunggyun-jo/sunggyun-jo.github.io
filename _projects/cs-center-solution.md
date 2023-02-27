@@ -2,7 +2,7 @@
 layout: project
 title: Contact Center Solution & Data Analytics
 ---
-*Spectra, 2018. 01 ~ 2019. 12*
+*Spectra, 2017. 03 ~ 2019. 12*
 
 ### Project Summary
 
